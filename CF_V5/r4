@@ -1,0 +1,13 @@
+U
+5
+5
+P
+A
+B
+A
+B
+A
+SAVE 1.TXT
+B
+LOAD 1.TXT
+A
